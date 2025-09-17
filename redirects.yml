@@ -1,10 +1,10 @@
-- from: /me
-  to: https://github.com/waptik
+- from: /
+  to: https://t.me/kiltes
   status: 308 # Change status code ex. 301, 302, 307 (Default), 308
 - from: /twitter # Match exactly one ex. /google/recursion
-  to: https://twitter.com/_waptik
+  to: https://t.me/kiltes
 - from: /railway
-  to: https://railway.app?referralCode=h-Sxnl
+  to: https://t.me/kiltes
 # - from: /twitter/:slug? # Match Zero or one ex. /twitter /twitter/thewdhanat
 #   to: https://twitter.com/:slug
 # - from: /github/:slug+ # One or more ex. /github/ThewApp github/ThewApp/vercel-shorturl
